@@ -1,0 +1,67 @@
+,Tourn_Title,Location,Dates,Rounds_Single,Rounds_Doubles,Court,Surface
+0,Chennai,"Chennai, India",2016.01.04 - 2016.01.10,28,16,Outdoor,Hard
+1,Doha,"Doha, Qatar",2016.01.04 - 2016.01.10,32,16,Outdoor,Hard
+2,Brisbane,"Brisbane, Australia",2016.01.04 - 2016.01.10,28,16,Outdoor,Hard
+3,Auckland,"Auckland, New Zealand",2016.01.11 - 2016.01.17,28,16,Outdoor,Hard
+4,Sydney,"Sydney, Australia",2016.01.11 - 2016.01.17,28,16,Outdoor,Hard
+5,Australian Open,"Melbourne, Australia",2016.01.18 - 2016.01.31,128,64,Outdoor,Hard
+6,Quito,"Quito, Ecuador",2016.02.01 - 2016.02.07,28,16,Outdoor,Clay
+7,Montpellier,"Montpellier, France",2016.02.01 - 2016.02.07,28,16,Indoor,Hard
+8,Sofia,"Sofia, Bulgaria",2016.02.01 - 2016.02.07,28,16,Indoor,Hard
+9,Buenos Aires,"Buenos Aires, Argentina",2016.02.08 - 2016.02.14,28,16,Outdoor,Clay
+10,Rotterdam,"Rotterdam, Netherlands",2016.02.08 - 2016.02.14,32,16,Indoor,Hard
+11,Memphis,"Memphis, TN, U.S.A.",2016.02.08 - 2016.02.14,28,16,Indoor,Hard
+12,Rio de Janeiro,"Rio de Janeiro, Brazil",2016.02.15 - 2016.02.21,32,16,Outdoor,Clay
+13,Marseille,"Marseille, France",2016.02.15 - 2016.02.21,28,16,Indoor,Hard
+14,Delray Beach,"Delray Beach, FL, U.S.A.",2016.02.15 - 2016.02.21,32,16,Outdoor,Hard
+15,Sao Paulo,"Sao Paulo, Brazil",2016.02.22 - 2016.02.28,28,16,Outdoor,Clay
+16,Dubai,"Dubai, U.A.E.",2016.02.22 - 2016.02.28,32,16,Outdoor,Hard
+17,Acapulco,"Acapulco, Mexico",2016.02.22 - 2016.02.27,32,16,Outdoor,Hard
+18,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2016.03.10 - 2016.03.20,96,32,Outdoor,Hard
+19,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2016.03.21 - 2016.04.03,96,32,Outdoor,Hard
+20,Houston,"Houston, TX, U.S.A.",2016.04.04 - 2016.04.10,28,16,Outdoor,Clay
+21,Marrakech,"Marrakech, Morocco",2016.04.04 - 2016.04.10,28,16,Outdoor,Clay
+22,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2016.04.10 - 2016.04.17,56,24,Outdoor,Clay
+23,Barcelona,"Barcelona, Spain",2016.04.18 - 2016.04.24,48,16,Outdoor,Clay
+24,Bucharest,"Bucharest, Romania",2016.04.18 - 2016.04.24,28,16,Outdoor,Clay
+25,Istanbul,"Istanbul, Turkey",2016.04.25 - 2016.05.01,28,16,Outdoor,Clay
+26,Munich,"Munich, Germany",2016.04.25 - 2016.05.01,28,16,Outdoor,Clay
+27,Estoril,"Estoril, Portugal",2016.04.25 - 2016.05.01,28,16,Outdoor,Clay
+28,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2016.05.01 - 2016.05.08,56,24,Outdoor,Clay
+29,ATP World Tour Masters 1000 Rome,"Rome, Italy",2016.05.08 - 2016.05.15,56,24,Outdoor,Clay
+30,Nice,"Nice, France",2016.05.15 - 2016.05.22,28,16,Outdoor,Clay
+31,Geneva,"Geneva, Switzerland",2016.05.15 - 2016.05.22,28,16,Outdoor,Clay
+32,Roland Garros,"Paris, France",2016.05.22 - 2016.06.05,128,64,Outdoor,Clay
+33,s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2016.06.06 - 2016.06.12,28,16,Outdoor,Grass
+34,Stuttgart,"Stuttgart, Germany",2016.06.06 - 2016.06.12,28,16,Outdoor,Grass
+35,Halle,"Halle, Germany",2016.06.13 - 2016.06.19,32,16,Outdoor,Grass
+36,London / Queen's Club,"London, Great Britain",2016.06.13 - 2016.06.19,32,16,Outdoor,Grass
+37,Nottingham,"Nottingham, Great Britain",2016.06.20 - 2016.06.26,48,16,Outdoor,Grass
+38,Wimbledon,"London, Great Britain",2016.06.27 - 2016.07.10,128,64,Outdoor,Grass
+39,Hamburg,"Hamburg, Germany",2016.07.11 - 2016.07.17,32,16,Outdoor,Clay
+40,Newport,"Newport, RI, U.S.A.",2016.07.11 - 2016.07.17,28,16,Outdoor,Grass
+41,Bastad,"Bastad, Sweden",2016.07.11 - 2016.07.17,28,16,Outdoor,Clay
+42,Washington,"Washington, DC, U.S.A.",2016.07.18 - 2016.07.24,48,16,Outdoor,Hard
+43,Umag,"Umag, Croatia",2016.07.18 - 2016.07.24,28,16,Outdoor,Clay
+44,Gstaad,"Gstaad, Switzerland",2016.07.18 - 2016.07.24,28,16,Outdoor,Clay
+45,Kitzbühel,"Kitzbuhel, Austria",2016.07.18 - 2016.07.24,28,16,Outdoor,Clay
+46,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2016.07.25 - 2016.07.31,56,24,Outdoor,Hard
+47,Atlanta,"Atlanta, GA, U.S.A.",2016.08.01 - 2016.08.07,28,16,Outdoor,Hard
+48,Los Cabos,"Los Cabos, Mexico",2016.08.08 - 2016.08.14,28,16,Outdoor,Hard
+49,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2016.08.15 - 2016.08.21,56,24,Outdoor,Hard
+50,Winston-Salem,"Winston-Salem, NC, U.S.A.",2016.08.22 - 2016.08.28,48,16,Outdoor,Hard
+51,US Open,"New York, NY, U.S.A.",2016.08.29 - 2016.09.11,128,64,Outdoor,Hard
+52,St. Petersburg,"St. Petersburg, Russia",2016.09.19 - 2016.09.25,28,16,Indoor,Hard
+53,Metz,"Metz, France",2016.09.19 - 2016.09.25,28,16,Indoor,Hard
+54,Kuala Lumpur,"Kuala Lumpur, Malaysia",2016.09.26 - 2016.10.02,28,16,Indoor,Hard
+55,Shenzhen,"Shenzhen, China",2016.09.26 - 2016.10.02,28,16,Outdoor,Hard
+56,Tokyo,"Tokyo, Japan",2016.10.03 - 2016.10.09,32,16,Outdoor,Hard
+57,Beijing,"Beijing, China",2016.10.03 - 2016.10.09,32,16,Outdoor,Hard
+58,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2016.10.10 - 2016.10.16,56,24,Outdoor,Hard
+59,Stockholm,"Stockholm, Sweden",2016.10.17 - 2016.10.23,28,16,Indoor,Hard
+60,Moscow,"Moscow, Russia",2016.10.17 - 2016.10.23,28,16,Indoor,Hard
+61,Valencia,"Valencia, Spain",2016.10.17 - 2016.10.23,28,16,Indoor,Hard
+62,Basel,"Basel, Switzerland",2016.10.24 - 2016.10.30,32,16,Indoor,Hard
+63,Vienna,"Vienna, Austria",2016.10.24 - 2016.10.30,32,16,Indoor,Hard
+64,ATP World Tour Masters 1000 Paris,"Paris, France",2016.10.31 - 2016.11.06,48,24,Indoor,Hard
+65,ATP World Tour Finals,"London, Great Britain",2016.11.14 - 2016.11.20,8,8,Indoor,Hard
