@@ -33,9 +33,6 @@ class ATP_Calendar:
                 Tourn_name.append(item.contents[3].find_all("a",{"class":"tourney-title"})[0].text)
                 Tourn_Location.append(item.contents[3].find_all("span",{"class":"tourney-location"})[0].text.strip())
                 Tourn_dates.append(item.contents[3].find_all("span",{"class":"tourney-dates"})[0].text.strip())
-                #round of singles, round of doubles
-                #if count1 != 48:
-                    #singles round
                 singles.append(item.contents[5].find_all("div",{"class":"item-details"})[0].contents[1].text.strip())
                     #doubles round
                 doubles.append(item.contents[5].find_all("div",{"class":"item-details"})[0].contents[3].text.strip())
@@ -132,5 +129,4 @@ url_obj = ATP_Calendar("http://www.atpworldtour.com/en/tournaments")
 #url_obj.inspect()
 df = url_obj.scrape()
 df = url_obj.process(df)
-url_obj.visualise(df)	 
-        
+url_obj.visualise(df)	
